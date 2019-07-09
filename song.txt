@@ -10,4 +10,9 @@ _----_----___--__-----__-_----asdas
 
 not so long commits
 
+<<<<<<< HEAD
 asdasdasdasdasdas
+=======
+
+123214521421321321
+>>>>>>> feature
