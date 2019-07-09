@@ -5,14 +5,3 @@ on this their chosen battle field
 
 Form the lines
 Shield by shield
-
-_----_----___--__-----__-_----asdas
-
-not so long commits
-
-<<<<<<< HEAD
-asdasdasdasdasdas
-=======
-
-123214521421321321
->>>>>>> feature
